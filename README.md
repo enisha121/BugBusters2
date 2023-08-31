@@ -94,3 +94,19 @@ Thank you to the following contributors who have helped to improve this project:
 |Enisha  |enisha@bjitacademy.com |0167774426 |
 |Nigah   |nigah@bjitacademy.com  |0167774427 |
 |Rezone  |rezone@bjitacademy.com |0167774428 |
+
+## Contact Information
+
+For any inquiries or support, please email us at support@localdiningguide.com or visit our
+
+website http://www.localdiningguide.com.
+
+### Follow us on social media: (Add Icons)
+
+**Twitter**: @localdiningguide
+
+**Facebook:** LocalDiningGuide
+
+**Instagram:** @localdiningguide
+
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! Bon appétit!
