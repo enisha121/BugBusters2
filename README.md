@@ -13,4 +13,4 @@
 2. **Navigate to Directory:**  Move into the project directory. 
 `cd local-dining-guide                                       `
 3. **Launch the Application:** Open the index.html file in your web browser. 
-`cd local-dining-guide 
+`cd local-dining-guide                                       `
